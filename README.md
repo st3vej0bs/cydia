@@ -1,2 +1,10 @@
-# cydia
-just a very cool repo for old iOS.. 3/4/5/6 Fuck The New Generation. i'm free for publish, just repost, thanks everyboy have hardworked to make all of this.
+# Tutorial Repository
+For Add this repo :
+
+https://st3vej0bs.github.io/cydia
+
+Thanks for that !
+
+it's the same name in Reddit and Twitter
+
+for any question, send DM on Reddit @st3vej0bsUI
